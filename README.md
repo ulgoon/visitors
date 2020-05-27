@@ -3,8 +3,6 @@
 Welcome!
 
 
-Username: jjub0217
-comment: Hi, there! i don't know everything.
-My situation: Beginner
-comment:BYE
 
+username: bsl
+comment: wa! sanz! 2try
